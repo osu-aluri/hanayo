@@ -4,7 +4,7 @@
   "dependencies": {
     "i18next": "^7.1.2",
     "i18next-xhr-backend": "^1.4.1",
-    "semantic-ui": "^2.2.6"
+    "semantic-ui": "^2.4.2"
   },
   "devDependencies": {
     "babel-preset-latest": "^6.16.0",
